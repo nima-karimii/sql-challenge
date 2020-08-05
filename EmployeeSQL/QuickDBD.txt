@@ -1,4 +1,4 @@
-departments 
+ departments 
 -
 dept_no varchar(5) pk
 dept_name varchar(30)
